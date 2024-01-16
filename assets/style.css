@@ -102,6 +102,13 @@ h2 {
     background-color: #BEB45A;
     border-radius:0 ;
 }
+
+.nav-link.active-tag {
+    color: #020202;
+    background-color: #BEB45A;
+    border-radius:0 ;
+}
+
 .nav-pills .nav-link {
     color: #000
 }

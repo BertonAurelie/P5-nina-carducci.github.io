@@ -667,6 +667,7 @@ textarea {
 .carousel-inner {
   position: relative;
   width: 100%;
+  height:auto;
   overflow: hidden;
 }
 .carousel-inner::after {
@@ -680,6 +681,7 @@ textarea {
   display: none;
   float: left;
   width: 100%;
+  height:auto;
   margin-right: -100%;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
