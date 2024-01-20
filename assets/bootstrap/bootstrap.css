@@ -478,6 +478,7 @@ textarea {
   position: relative;
   flex: 1 1 auto;
   padding: 1rem;
+  width:100%;
 }
 
 .modal-footer {
